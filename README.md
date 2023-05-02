@@ -4,7 +4,7 @@
  Adds a boring drill that allows you to dig infinitely lower (new underground surfaces) at an ever increasing cost. 
  Very WIP
  
- Current Features:
+     Current Features:
      Tweaks burner drills/ electric drills to require drill bits.
      Unlock the boring drill by researching land fill.
      The boring drill requires some parts (drill bits, cable and concrete) to drill.
@@ -16,9 +16,10 @@
           +Electricity
           +Items (ofc)
           
-     Also, sulfur production is moved until after Chemical Science. On vanilla this should mean you need sulfur to get sulfur. I wonder where you might find some...
+Also, sulfur production is moved until after Chemical Science. On vanilla this should mean you need sulfur to get sulfur. I wonder where you might find some...
      
 Planned? Features:
+
     Increased ore when going down levels
     Lava/magma/geothermal power
     Heat chemical plants
