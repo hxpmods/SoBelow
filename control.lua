@@ -38,7 +38,7 @@ function convert_drill_to_elevator(drill_unit_number)
     top_pole.minable = false
 
     bottom_pole.destructible = false
-    top_pole.destructible = false
+    bottom_pole.minable = false
 
     drill.destroy()
 
